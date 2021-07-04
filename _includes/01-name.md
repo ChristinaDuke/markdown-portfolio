@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Christina Ballengee
+## Practicing working with headings.
+###### Please bear with me. 
